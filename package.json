@@ -9,8 +9,10 @@
   "author": "Sandro Hawke (http://hawke.org/sandro)",
   "license": "BSD-2-Clause",
   "dependencies": {
+    "axios": "^0.16.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
+    "mastodon": "^1.2.0",
     "morgan": "^1.8.2"
   }
 }
