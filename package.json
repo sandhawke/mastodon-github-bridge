@@ -1,0 +1,16 @@
+{
+  "name": "mastodon-github-bridge",
+  "version": "0.0.1",
+  "description": "Post github events to Mastodon, maybe send replies back",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandro Hawke (http://hawke.org/sandro)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
